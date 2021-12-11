@@ -1,2 +1,2 @@
 # Graphite
-Seamless Transfer between devices.
+Seamless Transfer Files between devices.
